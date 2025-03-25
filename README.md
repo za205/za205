@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @za205
+- 👋 Hi, I’m @zak205
 - 👀 I’m interested in ...becoming a front end developer 
 - 🌱 I’m currently learning ...javascript
 - 💞️ I’m looking to collaborate on ...projects
